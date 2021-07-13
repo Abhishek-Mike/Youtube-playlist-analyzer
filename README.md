@@ -1,6 +1,4 @@
 # Youtube-playlist-analyzer
 
-Async Await functions
-// no of videos 
-// views 
-// watch time -> get 
+Used Async Await functions -----------------------------------------------
+Fetched number of videos, total number of views, total watch time 
